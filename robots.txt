@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-49c4n5.quietmatches.com/sitemap.xml
